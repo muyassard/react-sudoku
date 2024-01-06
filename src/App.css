@@ -1,0 +1,9 @@
+.incompleted {
+  color: #fff;
+  cursor: pointer;
+}
+input::-webkit-inner-spin-button,
+input::-webkit-outer-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+}
